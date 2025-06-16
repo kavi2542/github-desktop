@@ -10,3 +10,9 @@ header{
   height: 600px;
   background-color: #d1e803;
 }
+footer {
+  padding: 3rem;
+  text-align: center;
+  color: #fff;
+  background-color: #282c34;
+}
