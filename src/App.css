@@ -4,3 +4,9 @@ nav {
   color: #fff;
   background-color: #282c34;
 }
+header{
+  padding: 3rem;
+  text-align: center;
+  height: 600px;
+  background-color: #d1e803;
+}
